@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 long long pairsWithGivenSum(int arr[], int n, int sum)
@@ -18,6 +18,3 @@ long long pairsWithGivenSum(int arr[], int n, int sum)
 }
 
 
-int 
-    return 0;
-}
